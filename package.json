@@ -1,0 +1,17 @@
+{
+  "name": "environment",
+  "version": "0.0.1",
+  "description": "Modules to check what environment the Application is running.",
+  "main": "env.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cordova",
+    "Android",
+    "iOS",
+    "Environment"
+  ],
+  "author": "Silas S. Brasil",
+  "license": "ISC"
+}
